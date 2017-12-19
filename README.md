@@ -16,3 +16,8 @@ For more info on each component of our project, please see the following reposit
 - [Crawler](https://github.com/shoestagram/crawler)
 
 
+
+## Authors
+- [Coco Brecht](https://github.com/coco-moloko)
+- [Allen Lee](https://github.com/allendecodemtl)
+- [Melinda Yeoh](https://github.com/MelofunkCodes)
